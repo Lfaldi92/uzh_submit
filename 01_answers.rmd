@@ -6,6 +6,7 @@ date: "last updated: `r Sys.Date()`"
 ---
 
 
+
 *In groups of around 3-5 people, fill out this sheet on current debates about scraping, its scientific use and doing research in R. When you are finished, upload your solutions on GitHub.*
 
 \setcounter{tocdepth}{2}
