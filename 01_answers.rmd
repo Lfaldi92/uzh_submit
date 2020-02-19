@@ -35,13 +35,13 @@ Fill in this [short survey on your previous experience](https://forms.gle/BJtFLN
 Describe what the following terms / laws / cases refer to in one sentence each:
 
 terms of service: 
+Terms of  Service: The condition to use a specific service in internet and the data contained. The service can be either public, i.e. free and open access to the service and the data in it, or private, i.e. the data can be scraped only by those entities which have an agreement with the service owner/s
 
-GDPR: 
+GDPR: The European regulamantation about data use and data analysis. Especially concerned with scraping.
 
-Computer Fraud and Abuse Act: 
+Computer Fraud and Abuse Act (CFAA): is an american regulamantation which prohibits accessing a computer without authorization, or in excess of authorization.
 
-Sandvig v. Barr: 
-
+Sandvig v. Barr: has filed a lawsuit challenging the constitutionality of the Computer Fraud and Abuse Act, which makes it a federal crime to access a computer in a manner that “exceeds authorized access.” This provision of the law often prohibits and chills academics, researchers, and journalists from testing for discrimination on the internet. The lawsuit was filed in the U.S. District Court for the District of Columbia in June 2016. The plaintiffs are academic researchers, computer scientists, and journalists who wish to investigate companies’ online practices through standard academic and journalistic techniques, but are limited by the terms of service of target websites.
 
 
 ### Terms of service
